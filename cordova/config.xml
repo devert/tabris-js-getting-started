@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.tabrisjs.getting.started" version="1.0.0">
-  <name>HelloWorld</name>
+<widget id="com.tabrisjs.test" version="1.0.0">
+  <name>Tabris Test</name>
   <description>
    A sample Tabris.js application.
   </description>
-  <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
-   Tabris.js Team
+  <author email="dennisevert@gmail.com" href="http://dennisevert.com">
+   Dennis Evert
   </author>
 </widget>
